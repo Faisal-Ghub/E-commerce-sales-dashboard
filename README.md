@@ -47,7 +47,7 @@ Features of the Dashboard 🖥️
 
 • Interactive Filtering: Allows users to dynamically explore data by year, region, category, and segment
 
-Key Insights (Summary) 💡
+Key Insights (Summary) 
 
 • Sales, profit, and AOV show a steady increase from 2012 to 2014
 
