@@ -1,7 +1,7 @@
 Sales Dashboard – Task 1 (Future Intern) 📊
 Project Overview 📝 
 
-This is the first task of my one-month self-paced internship at Future Intern. The goal was to analyze sales performance across multiple dimensions and create an interactive dashboard in Power BI. The dataset was provided in Excel format by the internship team.
+This is the first task of my one-month self-paced internship at Future Intern. The goal was to analyze sales performance across multiple dimensions and create an interactive dashboard in Power BI. The dataset was provided in Excel format by the internship team. 
 
 Tools & Technologies Used 🛠️ 
 
