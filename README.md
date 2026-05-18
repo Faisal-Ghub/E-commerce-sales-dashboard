@@ -26,7 +26,7 @@ Tools & Technologies Used 🛠️
 
 Files Included 📁
 
-📄 Sales_Data.xlsx – Raw dataset provided by the internship team
+📄 Sales_Data.xlsx – Raw dataset 
 
 📊 Sales_Dashboard.pbix – Power BI dashboard file
 
