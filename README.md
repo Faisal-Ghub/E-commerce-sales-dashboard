@@ -1,7 +1,10 @@
-Sales Dashboard – Task 1 (Future Intern) 📊
+Sales Dashboard – 📊
 Project Overview 
 
-This is the first task of my one-month self-paced internship at Future Intern. The goal was to analyze sales performance across multiple dimensions and create an interactive dashboard in Power BI. The dataset was provided in Excel format by the internship team. 
+An interactive business intelligence dashboard designed to track sales performance, customer behavior, profitability trends, and category-level insights for an e-commerce business.
+The objective of this project was to transform raw transactional data into actionable insights that support data-driven decision-making across sales, marketing, and inventory operations.
+
+The dashboard enables stakeholders to:
 
 Tools & Technologies Used 🛠️ 
 
